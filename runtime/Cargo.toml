@@ -4,13 +4,13 @@ tag = 'monthly-2021-07'
 version = '4.0.0'
 
 [package]
-authors = ['Substrate DevHub <https://github.com/substrate-developer-hub>']
-edition = '2018'
-homepage = 'https://substrate.dev'
-license = 'Unlicense'
-name = 'node-template-runtime'
-repository = 'https://github.com/substrate-developer-hub/substrate-node-template/'
-version = '3.0.0'
+authors = ['MenInBlock DEV <https://meninblock.dev>']
+edition = '2021'
+homepage = 'https://gently.finance'
+license = 'Apache 2.0'
+name = 'gently-runtime'
+repository = 'https://github.com/GentlyFinance/Gently-node'
+version = '1.0.0'
 [package.metadata.docs.rs]
 targets = ['x86_64-unknown-linux-gnu']
 

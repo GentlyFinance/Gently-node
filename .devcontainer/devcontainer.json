@@ -1,5 +1,5 @@
 {
-  "name": "Substrate Node template",
+  "name": "Gently Node",
   "context": "..",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash",
